@@ -1,0 +1,1 @@
+{"inputs":["C:\\handyeyes\\web\\*\\index.html","C:\\handyeyes\\web\\flutter_bootstrap.js","C:\\flutter\\flutter\\bin\\cache\\engine.stamp"],"outputs":["C:\\handyeyes\\build\\web\\*\\index.html","C:\\handyeyes\\build\\web\\flutter_bootstrap.js"],"buildKey":"[{\"compileTarget\":\"dart2js\",\"renderer\":\"canvaskit\",\"mainJsPath\":\"main.dart.js\"},{}]"}
