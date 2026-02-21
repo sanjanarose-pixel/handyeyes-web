@@ -13,7 +13,7 @@
 - [Shaen Meryl Saj] - [MITS]
 
 ### Hosted Project Link
-[Add your live Vercel/Firebase link here]
+https://handyeyes-web.vercel.app/
 
 ### Project Description
 HandyEyes is a hybrid real-time object detection system that combines on-device machine learning with cloud-based vision AI to provide low-latency, confidence-filtered audio feedback for visually impaired users.
