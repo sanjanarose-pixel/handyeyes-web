@@ -6,11 +6,11 @@
 
 ## Basic Details
 
-### Team Name: [Your Team Name]
+### Team Name: [Lunar Logic]
 
 ### Team Members
-- Sanjana Sujith - [Your College]
-- [Member 2 Name] - [College]
+- Sanjana Sujith - [MITS]
+- [Shaen Meryl Saj] - [MITS]
 
 ### Hosted Project Link
 [Add your live Vercel/Firebase link here]
@@ -103,7 +103,7 @@ Human Contributions: Architecture, Flutter code, ML integration, UI/UX
 Team Contributions
 Sanjana Sujith: Flutter development, ML Kit integration, web deployment
 
-[Member 2 Name]: Cloud AI integration, testing, documentation
+Shaen Meryl Saj: Cloud AI integration, testing, documentation
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
