@@ -13,8 +13,8 @@
 ### Team Name: Lunar Logic
 
 ### Team Members
-- Sanjana Sujith - MITS
-- Shaen Meryl Saj - MITS
+- Sanjana Sujith - MITS - S4 AI&DS
+- Shaen Meryl Saj - MITS - S4 AI&DS
 
 ### Hosted Project Link and video link
 https://handyeyes-web.vercel.app/ 
@@ -23,7 +23,11 @@ https://drive.google.com/file/d/1BUn84T-wslzhdjfNLMOcNQjmZj_pf87Y/view?usp=drive
 
 
 ### Project Description
-HandyEyes is a hybrid real-time object detection system that combines on-device machine learning with cloud-based vision AI to provide low-latency, confidence-filtered audio feedback for visually impaired users.
+HandyEyes is a hybrid real-time object detection system designed for visually impaired users. It combines on-device machine learning using Google ML Kit with cloud-based vision AI via OpenAI to deliver low-latency, confidence-filtered audio feedback.
+
+The system detects objects like phones, laptops, bottles, and obstacles, and speaks them aloud immediately, helping users navigate their environment safely and independently.
+
+Built entirely in Flutter, HandyEyes streams live camera input, processes it in real time, and intelligently filters results for clarity and accuracy — all while providing a seamless, hands-free experience. It’s fast, accessible, and makes the world more navigable for everyone.
 
 ### The Problem Statement
 Visually impaired users struggle to navigate dynamic environments safely due to limited real-time environmental awareness.
