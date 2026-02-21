@@ -3,10 +3,6 @@
 </p>
 
 # HandyEyes 🎯
-<p align="center">
-  <img src="20260221_094632.jpg" alt="HandyEyes Banner" width="100%">
-</p>
-
 
 ## Basic Details
 
@@ -20,6 +16,12 @@
 https://handyeyes-web.vercel.app/ 
 
 https://drive.google.com/file/d/1BUn84T-wslzhdjfNLMOcNQjmZj_pf87Y/view?usp=drivesdk
+
+### Pictures from our flutter app
+
+<p align="center">
+  <img src="20260221_094632.jpg" alt="HandyEyes Banner" width="100%">
+</p>
 
 
 ### Project Description
