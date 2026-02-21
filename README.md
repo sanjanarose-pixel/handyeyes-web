@@ -3,6 +3,10 @@
 </p>
 
 # HandyEyes 🎯
+<p align="center">
+  <img src="20260221_094632.jpg" alt="HandyEyes Banner" width="100%">
+</p>
+
 
 ## Basic Details
 
