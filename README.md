@@ -6,14 +6,15 @@
 
 ## Basic Details
 
-### Team Name: [Lunar Logic]
+### Team Name: Lunar Logic
 
 ### Team Members
-- Sanjana Sujith - [MITS]
-- [Shaen Meryl Saj] - [MITS]
+- Sanjana Sujith - MITS
+- Shaen Meryl Saj - MITS
 
 ### Hosted Project Link and video link
-https://handyeyes-web.vercel.app/
+https://handyeyes-web.vercel.app/ 
+
 https://drive.google.com/file/d/1BUn84T-wslzhdjfNLMOcNQjmZj_pf87Y/view?usp=drivesdk
 
 
@@ -88,10 +89,6 @@ HandyEyes processes camera input on-device, with optional cloud AI integration f
 Application Workflow
 
 User points camera → On-device ML processes → Audio alerts delivered in real-time.
-
-Project Demo
-Video Demo: [Add your video link here]
-Shows HandyEyes detecting objects and giving audio feedback.
 
 AI Tools Used (Optional)
 Tool: ChatGPT
