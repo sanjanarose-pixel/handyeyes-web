@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img.png" alt="HandyEyes Banner" width="100%">
+  <img src="pic.png" alt="HandyEyes Banner" width="100%">
 </p>
 
 # HandyEyes 🎯
