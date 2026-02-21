@@ -12,8 +12,10 @@
 - Sanjana Sujith - [MITS]
 - [Shaen Meryl Saj] - [MITS]
 
-### Hosted Project Link
+### Hosted Project Link and video link
 https://handyeyes-web.vercel.app/
+https://drive.google.com/file/d/1BUn84T-wslzhdjfNLMOcNQjmZj_pf87Y/view?usp=drivesdk
+
 
 ### Project Description
 HandyEyes is a hybrid real-time object detection system that combines on-device machine learning with cloud-based vision AI to provide low-latency, confidence-filtered audio feedback for visually impaired users.
